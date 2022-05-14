@@ -19,6 +19,5 @@ public class Main {
         diff21.diff21(30);
         diff21.diff21(-1);
         diff21.diff21(-9);
-
     }
 }
